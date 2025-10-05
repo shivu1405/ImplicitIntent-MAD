@@ -123,7 +123,7 @@ Android Manifest;
 ```
 
 ## OUTPUT
-
+<img width="1915" height="1140" alt="Screenshot 2025-10-05 180259" src="https://github.com/user-attachments/assets/a5159f00-0729-46c4-ada3-e3d6a185ed1d" />
 
 
 
